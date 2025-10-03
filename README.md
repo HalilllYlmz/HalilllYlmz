@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Halil</h1>
 <h3 align="center">A passionate Android Developer</h3>
 
-- 🔭 I’m currently working on **be a good android developer**
+- 🔭 I’m currently working on **be a good fullstack developer**
 
-- 🌱 I’m currently learning **Android and Kotlin**
+- 🌱 I’m currently learning **React and Node JS**
 
-- 💬 Ask me about **Android, Kotlin, Compose**
+- 💬 Ask me about **React, NodeJS, JavaScript**
 
 - 📫 How to reach me **halilylm1903@gmail.com**
 

@@ -74,9 +74,6 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
   </a>
-  <a href="https://supabase.com/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/42182389?s=200&v=4" alt="supabase" width="40" height="40"/>
-  </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
   </a>
